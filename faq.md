@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 
-[TBD] An FAQ page.
+[TBD] FAQ page.
